@@ -1,23 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e98e75aa99252721bd8a21924296b161",
+    "revision": "56ed31310c679fd7b10a62c958d2cd0c",
     "url": "/index.html"
   },
   {
-    "revision": "72de4e0637dc5db75b9f",
+    "revision": "d3d24166a29716fb8144",
     "url": "/static/css/2.5dbdccff.chunk.css"
   },
   {
-    "revision": "72de4e0637dc5db75b9f",
-    "url": "/static/js/2.45bdd601.chunk.js"
+    "revision": "d3d24166a29716fb8144",
+    "url": "/static/js/2.e78a5dce.chunk.js"
   },
   {
-    "revision": "78e3993c5fef8a0fb46c",
-    "url": "/static/js/main.25708257.chunk.js"
+    "revision": "0fb02e66be383b323b76",
+    "url": "/static/js/main.891f3929.chunk.js"
   },
   {
     "revision": "ca91f4838c85d37d972b",
     "url": "/static/js/runtime-main.c629469c.js"
+  },
+  {
+    "revision": "aca9046d114914272e16786f3e360c48",
+    "url": "/static/media/como-aumentar-o-score.aca9046d.png"
+  },
+  {
+    "revision": "f6e843fa306f52f9ecac2b303c7b1e30",
+    "url": "/static/media/como-ficou-score.f6e843fa.png"
   },
   {
     "revision": "d9a14cd93acc058bee3a66ddcf18368c",
@@ -40,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/plan_a.bc8b9166.png"
   },
   {
-    "revision": "c34ae7e25deb1f9b0a0f72d00995a596",
-    "url": "/static/media/plan_b.c34ae7e2.png"
+    "revision": "8aff586ca51edb3e4e22aff76af6dc94",
+    "url": "/static/media/plan_b.8aff586c.png"
   }
 ]);
