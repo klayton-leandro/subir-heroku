@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.99358378.chunk.js",
-    "main.js.map": "/static/js/main.99358378.chunk.js.map",
+    "main.js": "/static/js/main.5a0102c4.chunk.js",
+    "main.js.map": "/static/js/main.5a0102c4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.baeb1881.js",
     "runtime-main.js.map": "/static/js/runtime-main.baeb1881.js.map",
     "static/css/2.f988889f.chunk.css": "/static/css/2.f988889f.chunk.css",
     "static/js/2.de690ec4.chunk.js": "/static/js/2.de690ec4.chunk.js",
     "static/js/2.de690ec4.chunk.js.map": "/static/js/2.de690ec4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0b5504aebac14a88d25e0f703d640d74.js": "/precache-manifest.0b5504aebac14a88d25e0f703d640d74.js",
+    "precache-manifest.4ce41ef677cc8e82803dcece935e85e1.js": "/precache-manifest.4ce41ef677cc8e82803dcece935e85e1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f988889f.chunk.css.map": "/static/css/2.f988889f.chunk.css.map",
     "static/media/logo-trampo6.png": "/static/media/logo-trampo6.0320ff46.png"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.baeb1881.js",
     "static/css/2.f988889f.chunk.css",
     "static/js/2.de690ec4.chunk.js",
-    "static/js/main.99358378.chunk.js"
+    "static/js/main.5a0102c4.chunk.js"
   ]
 }
