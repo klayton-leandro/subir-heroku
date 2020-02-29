@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.cd577173.chunk.css",
-    "main.js": "/static/js/main.d61efc79.chunk.js",
-    "main.js.map": "/static/js/main.d61efc79.chunk.js.map",
+    "main.js": "/static/js/main.dcd3f838.chunk.js",
+    "main.js.map": "/static/js/main.dcd3f838.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.aba188b9.js",
     "runtime-main.js.map": "/static/js/runtime-main.aba188b9.js.map",
     "static/css/2.e5ccec4e.chunk.css": "/static/css/2.e5ccec4e.chunk.css",
-    "static/js/2.e399096e.chunk.js": "/static/js/2.e399096e.chunk.js",
-    "static/js/2.e399096e.chunk.js.map": "/static/js/2.e399096e.chunk.js.map",
+    "static/js/2.0f10958c.chunk.js": "/static/js/2.0f10958c.chunk.js",
+    "static/js/2.0f10958c.chunk.js.map": "/static/js/2.0f10958c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4aba42df30f131ecddc089edfa2ed9ea.js": "/precache-manifest.4aba42df30f131ecddc089edfa2ed9ea.js",
+    "precache-manifest.6e2942312140b3e8e829d697cad7ded1.js": "/precache-manifest.6e2942312140b3e8e829d697cad7ded1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.e5ccec4e.chunk.css.map": "/static/css/2.e5ccec4e.chunk.css.map",
     "static/css/main.cd577173.chunk.css.map": "/static/css/main.cd577173.chunk.css.map",
-    "static/js/2.e399096e.chunk.js.LICENSE": "/static/js/2.e399096e.chunk.js.LICENSE",
+    "static/js/2.0f10958c.chunk.js.LICENSE": "/static/js/2.0f10958c.chunk.js.LICENSE",
     "static/media/050-romania.svg": "/static/media/050-romania.b6039ec5.svg",
     "static/media/0_uu9CQxpBuP6dWnoL_.png": "/static/media/0_uu9CQxpBuP6dWnoL_.ffaaf167.png",
     "static/media/152-england.svg": "/static/media/152-england.ce3dae42.svg",
     "static/media/153-united-states-of-america.svg": "/static/media/153-united-states-of-america.65810e66.svg",
     "static/media/206-canada.svg": "/static/media/206-canada.09375085.svg",
     "static/media/239-mexico.svg": "/static/media/239-mexico.23fd1a57.svg",
+    "static/media/250-brazil.svg": "/static/media/250-brazil.25944839.svg",
     "static/media/Como-ser-um-bom-vendedor-online-D-Loja-virtual.jpg": "/static/media/Como-ser-um-bom-vendedor-online-D-Loja-virtual.46235d5b.jpg",
     "static/media/cambio-curitiba-melhor-momento-para-fazer-cambio-cambio-online.png": "/static/media/cambio-curitiba-melhor-momento-para-fazer-cambio-cambio-online.62f060b7.png",
     "static/media/cambio-online-atendimento.png": "/static/media/cambio-online-atendimento.56d35a75.png",
@@ -32,16 +33,18 @@
     "static/media/ilustration-cafe.png": "/static/media/ilustration-cafe.8d5462a1.png",
     "static/media/ilustration-woman.png": "/static/media/ilustration-woman.6bc83cc7.png",
     "static/media/man-using-his-laptop.webp": "/static/media/man-using-his-laptop.7ce7fe3e.webp",
+    "static/media/mapa.jpg": "/static/media/mapa.e2725b14.jpg",
     "static/media/register-illustration.svg": "/static/media/register-illustration.950e33dd.svg",
     "static/media/fonts.css": "/static/media/rubik-regular-webfont.50cc0e8c.woff",
     "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
+    "static/media/start-earn-money-motivation-with-man-holds-magnet_82574-8483.jpg": "/static/media/start-earn-money-motivation-with-man-holds-magnet_82574-8483.3433f6f2.jpg",
     "static/media/team.webp": "/static/media/team.e23340fa.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.aba188b9.js",
     "static/css/2.e5ccec4e.chunk.css",
-    "static/js/2.e399096e.chunk.js",
+    "static/js/2.0f10958c.chunk.js",
     "static/css/main.cd577173.chunk.css",
-    "static/js/main.d61efc79.chunk.js"
+    "static/js/main.dcd3f838.chunk.js"
   ]
 }

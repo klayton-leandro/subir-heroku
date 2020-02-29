@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "189d9ef15d039f16780049d72a4036a8",
+    "revision": "b2421d1c849a404c7a26eb4182d8a5f0",
     "url": "/index.html"
   },
   {
-    "revision": "13d40a6b6777d6ac5da1",
+    "revision": "db0444654d68c03ff6bb",
     "url": "/static/css/2.e5ccec4e.chunk.css"
   },
   {
-    "revision": "bca277d20fd24b885a09",
+    "revision": "3e8ce681d4e4ae9097dd",
     "url": "/static/css/main.cd577173.chunk.css"
   },
   {
-    "revision": "13d40a6b6777d6ac5da1",
-    "url": "/static/js/2.e399096e.chunk.js"
+    "revision": "db0444654d68c03ff6bb",
+    "url": "/static/js/2.0f10958c.chunk.js"
   },
   {
     "revision": "88f9ef475ec4053497edde7da832fc11",
-    "url": "/static/js/2.e399096e.chunk.js.LICENSE"
+    "url": "/static/js/2.0f10958c.chunk.js.LICENSE"
   },
   {
-    "revision": "bca277d20fd24b885a09",
-    "url": "/static/js/main.d61efc79.chunk.js"
+    "revision": "3e8ce681d4e4ae9097dd",
+    "url": "/static/js/main.dcd3f838.chunk.js"
   },
   {
     "revision": "aa665460a93827ce2dac",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "23fd1a576d1aeab2cb682b7d48718920",
     "url": "/static/media/239-mexico.23fd1a57.svg"
+  },
+  {
+    "revision": "259448397611d6705ea641d1fd5eb676",
+    "url": "/static/media/250-brazil.25944839.svg"
   },
   {
     "revision": "46235d5bc5eeefe620115f75297faf63",
@@ -98,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7ce7fe3e0f59b67140cbf470354bb04f",
     "url": "/static/media/man-using-his-laptop.7ce7fe3e.webp"
+  },
+  {
+    "revision": "e2725b14b65aa8a5ba4e8a908081f720",
+    "url": "/static/media/mapa.e2725b14.jpg"
   },
   {
     "revision": "950e33dd581776ef6d336bdf34b681c9",
@@ -174,6 +182,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "3433f6f22a5ccaa5ac6366fc4175782f",
+    "url": "/static/media/start-earn-money-motivation-with-man-holds-magnet_82574-8483.3433f6f2.jpg"
   },
   {
     "revision": "e23340fa009b26a92310d14d04b30e29",
