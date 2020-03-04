@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3a52d882a25ea4eba4a09f3c505f1d0",
+    "revision": "242024cdbb57e93a15db20c0f8ffab71",
     "url": "/index.html"
   },
   {
-    "revision": "4a8e9efe5e4b4eddf74d",
+    "revision": "f3356b5913282c1658b2",
     "url": "/static/css/2.e5ccec4e.chunk.css"
   },
   {
-    "revision": "c5cc405c358a1896c19e",
+    "revision": "51019224201ab5044443",
     "url": "/static/css/main.cd577173.chunk.css"
   },
   {
-    "revision": "4a8e9efe5e4b4eddf74d",
-    "url": "/static/js/2.77285fe6.chunk.js"
+    "revision": "f3356b5913282c1658b2",
+    "url": "/static/js/2.01735b27.chunk.js"
   },
   {
     "revision": "88f9ef475ec4053497edde7da832fc11",
-    "url": "/static/js/2.77285fe6.chunk.js.LICENSE"
+    "url": "/static/js/2.01735b27.chunk.js.LICENSE"
   },
   {
-    "revision": "c5cc405c358a1896c19e",
-    "url": "/static/js/main.7c185043.chunk.js"
+    "revision": "51019224201ab5044443",
+    "url": "/static/js/main.c334d391.chunk.js"
   },
   {
     "revision": "aa665460a93827ce2dac",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1912d1ef81a9f63a78915fef81bf6610",
     "url": "/static/media/dot.1912d1ef.svg"
+  },
+  {
+    "revision": "3b0567012c56b01390e48fa06f6d1817",
+    "url": "/static/media/fixa_blog.3b056701.png"
   },
   {
     "revision": "371ab3cf3200b1fc660e32a51595b03c",
@@ -182,10 +186,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
-  },
-  {
-    "revision": "3433f6f22a5ccaa5ac6366fc4175782f",
-    "url": "/static/media/start-earn-money-motivation-with-man-holds-magnet_82574-8483.3433f6f2.jpg"
   },
   {
     "revision": "e23340fa009b26a92310d14d04b30e29",
