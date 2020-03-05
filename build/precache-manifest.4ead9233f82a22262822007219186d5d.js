@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "242024cdbb57e93a15db20c0f8ffab71",
+    "revision": "8f4f54e6081b6dcb04f58d12b588b304",
     "url": "/index.html"
   },
   {
-    "revision": "f3356b5913282c1658b2",
+    "revision": "bfd5d47a2371c9838cab",
     "url": "/static/css/2.e5ccec4e.chunk.css"
   },
   {
-    "revision": "51019224201ab5044443",
+    "revision": "1b585ff95b050643a1b9",
     "url": "/static/css/main.cd577173.chunk.css"
   },
   {
-    "revision": "f3356b5913282c1658b2",
-    "url": "/static/js/2.01735b27.chunk.js"
+    "revision": "bfd5d47a2371c9838cab",
+    "url": "/static/js/2.69f9cd07.chunk.js"
   },
   {
     "revision": "88f9ef475ec4053497edde7da832fc11",
-    "url": "/static/js/2.01735b27.chunk.js.LICENSE"
+    "url": "/static/js/2.69f9cd07.chunk.js.LICENSE"
   },
   {
-    "revision": "51019224201ab5044443",
-    "url": "/static/js/main.c334d391.chunk.js"
+    "revision": "1b585ff95b050643a1b9",
+    "url": "/static/js/main.b0dd8961.chunk.js"
   },
   {
     "revision": "aa665460a93827ce2dac",
@@ -60,12 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Como-ser-um-bom-vendedor-online-D-Loja-virtual.46235d5b.jpg"
   },
   {
-    "revision": "62f060b7f5aa2de459735f9efeb792cd",
-    "url": "/static/media/cambio-curitiba-melhor-momento-para-fazer-cambio-cambio-online.62f060b7.png"
+    "revision": "1aa24547e6a0448c68d51ae80fe94144",
+    "url": "/static/media/bee-remessa-online-celular.1aa24547.png"
   },
   {
-    "revision": "56d35a75682d14df6b1a51e0c1595cc8",
-    "url": "/static/media/cambio-online-atendimento.56d35a75.png"
+    "revision": "62f060b7f5aa2de459735f9efeb792cd",
+    "url": "/static/media/cambio-curitiba-melhor-momento-para-fazer-cambio-cambio-online.62f060b7.png"
   },
   {
     "revision": "64b635a4c125d3e59e85ae84d871dce1",
@@ -88,20 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/dot.1912d1ef.svg"
   },
   {
-    "revision": "3b0567012c56b01390e48fa06f6d1817",
-    "url": "/static/media/fixa_blog.3b056701.png"
-  },
-  {
     "revision": "371ab3cf3200b1fc660e32a51595b03c",
     "url": "/static/media/fuja_IR.371ab3cf.jpg"
-  },
-  {
-    "revision": "8d5462a15b04581aae5ed0d6de1b9366",
-    "url": "/static/media/ilustration-cafe.8d5462a1.png"
-  },
-  {
-    "revision": "6bc83cc7618b955d093c52ebd4982da1",
-    "url": "/static/media/ilustration-woman.6bc83cc7.png"
   },
   {
     "revision": "7ce7fe3e0f59b67140cbf470354bb04f",
