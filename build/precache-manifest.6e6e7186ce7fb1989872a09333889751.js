@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f4f54e6081b6dcb04f58d12b588b304",
+    "revision": "4dc4d803cd2a2c2ca6e89099d4552b71",
     "url": "/index.html"
   },
   {
-    "revision": "bfd5d47a2371c9838cab",
+    "revision": "bd6efd2baaffd7190c41",
     "url": "/static/css/2.e5ccec4e.chunk.css"
   },
   {
-    "revision": "1b585ff95b050643a1b9",
+    "revision": "fcfca9a3eea882f78ff5",
     "url": "/static/css/main.cd577173.chunk.css"
   },
   {
-    "revision": "bfd5d47a2371c9838cab",
-    "url": "/static/js/2.69f9cd07.chunk.js"
+    "revision": "bd6efd2baaffd7190c41",
+    "url": "/static/js/2.9c07aff4.chunk.js"
   },
   {
     "revision": "88f9ef475ec4053497edde7da832fc11",
-    "url": "/static/js/2.69f9cd07.chunk.js.LICENSE"
+    "url": "/static/js/2.9c07aff4.chunk.js.LICENSE"
   },
   {
-    "revision": "1b585ff95b050643a1b9",
-    "url": "/static/js/main.b0dd8961.chunk.js"
+    "revision": "fcfca9a3eea882f78ff5",
+    "url": "/static/js/main.e6d9de27.chunk.js"
   },
   {
     "revision": "aa665460a93827ce2dac",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6039ec5e482932bcd8222179975a8e4",
     "url": "/static/media/050-romania.b6039ec5.svg"
-  },
-  {
-    "revision": "ffaaf16729b6bf6733e095414d8fb966",
-    "url": "/static/media/0_uu9CQxpBuP6dWnoL_.ffaaf167.png"
   },
   {
     "revision": "ce3dae42d3d48d081463b5cdbeb2008d",
@@ -56,24 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/250-brazil.25944839.svg"
   },
   {
-    "revision": "46235d5bc5eeefe620115f75297faf63",
-    "url": "/static/media/Como-ser-um-bom-vendedor-online-D-Loja-virtual.46235d5b.jpg"
+    "revision": "a80c0df201156f998f83f06d77c02dbf",
+    "url": "/static/media/bee-remessa-online-celular.a80c0df2.png"
   },
   {
-    "revision": "1aa24547e6a0448c68d51ae80fe94144",
-    "url": "/static/media/bee-remessa-online-celular.1aa24547.png"
-  },
-  {
-    "revision": "62f060b7f5aa2de459735f9efeb792cd",
-    "url": "/static/media/cambio-curitiba-melhor-momento-para-fazer-cambio-cambio-online.62f060b7.png"
+    "revision": "61fcce2f5f9697a6f29564396d6a615a",
+    "url": "/static/media/cadastro.61fcce2f.png"
   },
   {
     "revision": "64b635a4c125d3e59e85ae84d871dce1",
     "url": "/static/media/cambio-online-white.64b635a4.png"
-  },
-  {
-    "revision": "590072d66e77a274a40089ad26c5a44e",
-    "url": "/static/media/cambio-online.590072d6.jpg"
   },
   {
     "revision": "8efed7f7ab81ef453785d61e7a6de11d",
@@ -84,20 +72,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/check.6d4ba3ae.svg"
   },
   {
+    "revision": "44c1fd97daeafdaac65e81b3bdf04d95",
+    "url": "/static/media/como-funciona.44c1fd97.png"
+  },
+  {
+    "revision": "4f3cb326c303f5ef39be3a3162108bb8",
+    "url": "/static/media/dados-beneficiario.4f3cb326.png"
+  },
+  {
     "revision": "1912d1ef81a9f63a78915fef81bf6610",
     "url": "/static/media/dot.1912d1ef.svg"
   },
   {
-    "revision": "371ab3cf3200b1fc660e32a51595b03c",
-    "url": "/static/media/fuja_IR.371ab3cf.jpg"
+    "revision": "761502833ff039e3f4380efa1137fde1",
+    "url": "/static/media/e-isso.76150283.png"
+  },
+  {
+    "revision": "90d0d84f73c58905dd86ad28c76bfd5c",
+    "url": "/static/media/escolher-um-valor-para-enviar.90d0d84f.png"
+  },
+  {
+    "revision": "ff76744b1c595f7cafa64283aad00685",
+    "url": "/static/media/identidade.ff76744b.png"
   },
   {
     "revision": "7ce7fe3e0f59b67140cbf470354bb04f",
     "url": "/static/media/man-using-his-laptop.7ce7fe3e.webp"
   },
   {
-    "revision": "e2725b14b65aa8a5ba4e8a908081f720",
-    "url": "/static/media/mapa.e2725b14.jpg"
+    "revision": "ccb43b294d3e6cb2e4d8dd77002108a0",
+    "url": "/static/media/pagamento.ccb43b29.png"
+  },
+  {
+    "revision": "55d4243d26498357f66cb86df19612ee",
+    "url": "/static/media/person-account.55d4243d.jpg"
   },
   {
     "revision": "950e33dd581776ef6d336bdf34b681c9",
@@ -176,7 +184,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "e23340fa009b26a92310d14d04b30e29",
-    "url": "/static/media/team.e23340fa.webp"
+    "revision": "9559c63e6dc03d1e747c2bc1c3039613",
+    "url": "/static/media/team.9559c63e.png"
+  },
+  {
+    "revision": "1e2b211cce5e1e2a05c26afc78287ceb",
+    "url": "/static/media/transferencia.1e2b211c.png"
   }
 ]);
