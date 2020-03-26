@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ecfa0dcd9cfe67684f42fdfda5085483",
+    "revision": "39327925342e86c0f58ae4f3b91b69d4",
     "url": "/index.html"
   },
   {
-    "revision": "82aa4d09187174f259f0",
+    "revision": "220260e6230ec26bf85f",
     "url": "/static/css/2.e5ccec4e.chunk.css"
   },
   {
-    "revision": "6635f00c76d411417d9e",
+    "revision": "65ccb7a7daa6d5151891",
     "url": "/static/css/main.cd577173.chunk.css"
   },
   {
-    "revision": "82aa4d09187174f259f0",
-    "url": "/static/js/2.7cedcc32.chunk.js"
+    "revision": "220260e6230ec26bf85f",
+    "url": "/static/js/2.eaf7c25e.chunk.js"
   },
   {
     "revision": "88f9ef475ec4053497edde7da832fc11",
-    "url": "/static/js/2.7cedcc32.chunk.js.LICENSE"
+    "url": "/static/js/2.eaf7c25e.chunk.js.LICENSE"
   },
   {
-    "revision": "6635f00c76d411417d9e",
-    "url": "/static/js/main.52e0eaf8.chunk.js"
+    "revision": "65ccb7a7daa6d5151891",
+    "url": "/static/js/main.01cc7929.chunk.js"
   },
   {
     "revision": "aa665460a93827ce2dac",
@@ -36,12 +36,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/050-romania.b6039ec5.svg"
   },
   {
+    "revision": "5693755fe18f8f773348c69129c74eb2",
+    "url": "/static/media/067-hong-kong.5693755f.svg"
+  },
+  {
+    "revision": "068a26fe1c045e344ee8fd71eb65d9a0",
+    "url": "/static/media/081-cook-islands.068a26fe.svg"
+  },
+  {
     "revision": "ce3dae42d3d48d081463b5cdbeb2008d",
     "url": "/static/media/152-england.ce3dae42.svg"
   },
   {
     "revision": "65810e66ab4570d879716003ed60e602",
     "url": "/static/media/153-united-states-of-america.65810e66.svg"
+  },
+  {
+    "revision": "884d345046bb25efdfd29bd80dcdd6ad",
+    "url": "/static/media/2000px-Flag_of_New_Zealand.svg.884d3450.webp"
   },
   {
     "revision": "093750858a93dbd4ce69c7708227667e",
@@ -54,6 +66,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "259448397611d6705ea641d1fd5eb676",
     "url": "/static/media/250-brazil.25944839.svg"
+  },
+  {
+    "revision": "6d7b182c9e800e33b89a806e41cc440a",
+    "url": "/static/media/800px-Flag_of_the_Philippines.svg.6d7b182c.png"
+  },
+  {
+    "revision": "2c48b141929fb53de529cb9f6cade90f",
+    "url": "/static/media/Flag_of_Hungary_(1918-1919;_3-2_aspect_ratio).svg.2c48b141.png"
+  },
+  {
+    "revision": "b5a882dd00e8a02a65ae071cc1d92cb5",
+    "url": "/static/media/Flag_of_Israel-Palestine-Union_Rub_el_Hizb.b5a882dd.png"
+  },
+  {
+    "revision": "519f77aed8e6d453120f8900449c2c91",
+    "url": "/static/media/Japan_flag_-_variant.519f77ae.png"
+  },
+  {
+    "revision": "46315885c93098ea2ef85bbb60e27c35",
+    "url": "/static/media/b3e4f012ce3929bfc4695587c31efbe3.46315885.png"
   },
   {
     "revision": "145dbc6ac6cfcdbed06f6c6ad210c89e",
@@ -80,6 +112,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/como-funciona.44c1fd97.png"
   },
   {
+    "revision": "94e9ac16d148d18845be8941bb611a24",
+    "url": "/static/media/cz.94e9ac16.png"
+  },
+  {
     "revision": "2bc65168aa71ea052aedd60f0820aa96",
     "url": "/static/media/dados-beneficiario.2bc65168.png"
   },
@@ -96,8 +132,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/escolher-um-valor-para-enviar.08bd59f5.png"
   },
   {
+    "revision": "36d5fc0204e2617b82c33b10912ba41e",
+    "url": "/static/media/flag-of-malaysia.36d5fc02.jpg"
+  },
+  {
+    "revision": "adb634c209be777ccb4ab86e011689eb",
+    "url": "/static/media/flag-of-sweden.adb634c2.jpg"
+  },
+  {
+    "revision": "75eaf19344c09b58b839071904d9fbde",
+    "url": "/static/media/hr.75eaf193.png"
+  },
+  {
     "revision": "87f2f725cebb08e0741565d2fe1b624e",
     "url": "/static/media/identidade.87f2f725.png"
+  },
+  {
+    "revision": "bf3cc8b2da84d8392f05478147806fa4",
+    "url": "/static/media/il.bf3cc8b2.png"
   },
   {
     "revision": "7ce7fe3e0f59b67140cbf470354bb04f",
@@ -194,5 +246,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0be6f32c80a4fd69a082f2980800d656",
     "url": "/static/media/transferencia.0be6f32c.png"
+  },
+  {
+    "revision": "e330f0c9a2bcce9bbeb3e6b7d9228b52",
+    "url": "/static/media/za.e330f0c9.png"
   }
 ]);
